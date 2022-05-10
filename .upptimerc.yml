@@ -11,9 +11,10 @@ sites:
   - name: Heroku app vsco (HTTP)
     url: https://oliveirae.herokuapp.com
     method: HTTP
+    headers:
       - "Content-Type: application/json"
-    body: '{ "password": "${{ secrets.SENHA }}" }
-
+    body: '{ "password": "${{ secrets.SENHA }}" }'
+    
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
