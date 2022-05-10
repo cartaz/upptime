@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Heroku
-    url: $SECRET_SITE1
+    url: ${{ secrets.SITE1}}
   - name: Heroku (GET)
-    url: $SECRET_SITE1
+    url: ${{ secrets.SITE1}}
     method: GET
     
 status-website:
