@@ -3,17 +3,11 @@ owner: olivrae # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Heroku app vsco
-    url: https://oliveirae.herokuapp.com
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "password": "${{ secrets.SENHA }}" }'
-  - name: Heroku app vsco (HTTP)
-    url: https://oliveirae.herokuapp.com
-    method: HTTP
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "password": "${{ secrets.SENHA }}" }'
+  - name: Heroku
+    url: $SECRET_SITE1
+  - name: Heroku (GET)
+    url: $SECRET_SITE1
+    method: GET
     
 status-website:
   theme: dark
