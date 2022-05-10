@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 320,
-    "timeMonth": 320,
-    "timeYear": 320,
+    "time": 335,
+    "timeDay": 335,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/oliveirae.herokuapp.com",
     "slug": "heroku-app-vsco-http",
     "status": "down",
-    "uptime": "9.39%",
-    "uptimeDay": "9.39%",
-    "uptimeWeek": "9.39%",
-    "uptimeMonth": "9.39%",
-    "uptimeYear": "9.39%",
-    "time": 56,
-    "timeDay": 56,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 65,
+    "timeDay": 65,
+    "timeWeek": 65,
+    "timeMonth": 65,
+    "timeYear": 65,
     "dailyMinutesDown": {
-      "2022-05-10": 0
+      "2022-05-10": 28
     }
   }
 ]
