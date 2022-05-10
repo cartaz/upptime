@@ -1,42 +1,42 @@
 [
   {
     "name": "Heroku",
-    "url": "${{ secrets.SITE1}}",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://vscoe.herokuapp.com",
+    "icon": "https://favicons.githubusercontent.com/vscoe.herokuapp.com",
     "slug": "heroku",
-    "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
+    "time": 368,
+    "timeDay": 368,
+    "timeWeek": 368,
+    "timeMonth": 368,
+    "timeYear": 368,
     "dailyMinutesDown": {
-      "2022-05-10": 13
+      "2022-05-10": 17
     }
   },
   {
     "name": "Heroku (GET)",
-    "url": "${{ secrets.SITE1}}",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "url": "https://vscoe.herokuapp.com",
+    "icon": "https://favicons.githubusercontent.com/vscoe.herokuapp.com",
     "slug": "heroku-get",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.19%",
+    "uptimeDay": "0.19%",
+    "uptimeWeek": "0.19%",
+    "uptimeMonth": "0.19%",
+    "uptimeYear": "0.19%",
+    "time": 140,
+    "timeDay": 140,
+    "timeWeek": 140,
+    "timeMonth": 140,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2022-05-10": 13
+      "2022-05-10": 17
     }
   }
 ]
