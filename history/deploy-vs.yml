@@ -1,7 +1,7 @@
-url: https://deploy-code-server-production-cd42.up.railway.app/
-status: down
-code: 503
-responseTime: 339
-lastUpdated: 2022-06-08T20:42:57.946Z
+url: https://heroku-vscode-production-409e.up.railway.app/
+status: up
+code: 200
+responseTime: 287
+lastUpdated: 2022-06-08T21:43:19.396Z
 startTime: Tue May 10 2022 21:40:59 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
