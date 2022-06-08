@@ -1,42 +1,42 @@
 [
   {
     "name": "Deploy VS",
-    "url": "https://deploy-code-server-production-cd42.up.railway.app/",
-    "icon": "https://favicons.githubusercontent.com/deploy-code-server-production-cd42.up.railway.app",
+    "url": "https://heroku-vscode-production-409e.up.railway.app/",
+    "icon": "https://favicons.githubusercontent.com/heroku-vscode-production-409e.up.railway.app",
     "slug": "deploy-vs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 285,
-    "timeDay": 263,
-    "timeWeek": 294,
+    "timeDay": 271,
+    "timeWeek": 293,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 60
     }
   },
   {
     "name": "Deploy VS (GET)",
-    "url": "https://deploy-code-server-production-cd42.up.railway.app/",
-    "icon": "https://favicons.githubusercontent.com/deploy-code-server-production-cd42.up.railway.app",
+    "url": "https://heroku-vscode-production-409e.up.railway.app/",
+    "icon": "https://favicons.githubusercontent.com/heroku-vscode-production-409e.up.railway.app",
     "slug": "deploy-vs-get",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 102,
-    "timeDay": 68,
+    "timeDay": 81,
     "timeWeek": 104,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2022-06-08": 0
+      "2022-06-08": 60
     }
   }
 ]
