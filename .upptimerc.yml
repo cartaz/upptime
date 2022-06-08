@@ -4,9 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Deploy VS
-    url: https://deploy-code-server-production-cd42.up.railway.app/
+    url: https://heroku-vscode-production-409e.up.railway.app/
   - name: Deploy VS (GET)
-    url: https://deploy-code-server-production-cd42.up.railway.app/
+    url: https://heroku-vscode-production-409e.up.railway.app/
     method: GET
     
 status-website:
