@@ -3,10 +3,10 @@ owner: olivrae # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: VSC
-    url: https://vcods.herokuapp.com/
-  - name: VSC (GET)
-    url: https://vcods.herokuapp.com/
+  - name: replit
+    url: https://replit.com/@olivrae/KAM-2
+  - name: replit 2 (GET)
+    url: https://replit.com/@olivrae/KAM-2
     method: GET
     
 status-website:
