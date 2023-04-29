@@ -4,35 +4,39 @@
     "url": "https://replit.com/@olivrae/KAM-2",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 388,
-    "timeDay": 303,
-    "timeWeek": 326,
-    "timeMonth": 388,
-    "timeYear": 388,
-    "dailyMinutesDown": {}
+    "time": 370,
+    "timeDay": 201,
+    "timeWeek": 297,
+    "timeMonth": 370,
+    "timeYear": 370,
+    "dailyMinutesDown": {
+      "2023-04-29": 0
+    }
   },
   {
     "name": "replit 2 (GET)",
     "url": "https://replit.com/@olivrae/KAM-2",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-2-get",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 28,
-    "timeDay": 36,
-    "timeWeek": 30,
+    "timeDay": 30,
+    "timeWeek": 29,
     "timeMonth": 28,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-29": 0
+    }
   }
 ]
