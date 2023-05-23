@@ -4,19 +4,19 @@
     "url": "https://replit.com/@olivrae/KAM-2",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 374,
-    "timeDay": 316,
-    "timeWeek": 370,
-    "timeMonth": 359,
-    "timeYear": 374,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 367,
+    "timeDay": 266,
+    "timeWeek": 343,
+    "timeMonth": 351,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2023-05-23": 15
+      "2023-05-23": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://replit.com/@olivrae/KAM-2",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-2-get",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 29,
-    "timeDay": 24,
+    "timeDay": 27,
     "timeWeek": 29,
-    "timeMonth": 29,
+    "timeMonth": 30,
     "timeYear": 29,
     "dailyMinutesDown": {
-      "2023-05-23": 15
+      "2023-05-23": 0
     }
   }
 ]
