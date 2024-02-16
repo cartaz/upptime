@@ -4,19 +4,19 @@
     "url": "https://replit.com/@olivrae/KAM-2",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 258,
-    "timeWeek": 323,
+    "timeDay": 283,
+    "timeWeek": 324,
     "timeMonth": 323,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-02-16": 0
+      "2024-02-16": 2
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://replit.com/@olivrae/KAM-2",
     "icon": "https://icons.duckduckgo.com/ip3/replit.com.ico",
     "slug": "replit-2-get",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 78,
-    "timeWeek": 87,
-    "timeMonth": 120,
+    "timeDay": 107,
+    "timeWeek": 96,
+    "timeMonth": 122,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2024-02-16": 0
+      "2024-02-16": 2
     }
   }
 ]
