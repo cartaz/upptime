@@ -6,18 +6,16 @@
     "slug": "replit",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 283,
-    "timeWeek": 324,
-    "timeMonth": 323,
+    "timeDay": 258,
+    "timeWeek": 307,
+    "timeMonth": 319,
     "timeYear": 363,
-    "dailyMinutesDown": {
-      "2024-02-16": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "replit 2 (GET)",
@@ -26,17 +24,15 @@
     "slug": "replit-2-get",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 107,
-    "timeWeek": 96,
-    "timeMonth": 122,
+    "timeDay": 91,
+    "timeWeek": 86,
+    "timeMonth": 121,
     "timeYear": 101,
-    "dailyMinutesDown": {
-      "2024-02-16": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
